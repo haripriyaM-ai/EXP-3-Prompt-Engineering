@@ -29,7 +29,6 @@ Within a specific use case (e.g., summarizing text, answering technical question
 ---
 
 ## Prompt
-## Prompt
 
 Create a modern landscape-style infographic poster comparing the performance of 2024 AI platforms including ChatGPT, Claude, Bard/Gemini, Cohere Command, and Meta AI.
 
