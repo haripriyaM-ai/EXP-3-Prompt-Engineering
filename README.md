@@ -1,5 +1,8 @@
-# EXP-3-PROMPT-ENGINEERING-
+# EXP-3 : Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta
 
+
+### NAME : HARI PRIYA N
+### REG NO : 212224240047
 ## Aim: 
 Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: 
 ChatGPT, Claude, Bard, Cohere Command, and Meta
